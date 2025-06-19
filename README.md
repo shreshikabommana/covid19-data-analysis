@@ -33,8 +33,8 @@ These datasets were preprocessed and cleaned for analysis, and rolling time-seri
 
 - `data/` – Raw datasets (Excel)
 - `output/` – Graphs and visualizations
-- `notebook.ipynb` – Main analysis in Jupyter
-- `report.pdf` – Final written report
+- `c.ipynb` – Main analysis in Jupyter
+- `covid-data-analysis.pdf` – Final written report
 
 ## Methodology
 
