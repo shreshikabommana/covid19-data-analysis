@@ -1,7 +1,7 @@
 dash==2.16.1
+jupyter-dash
 plotly==5.22.0
 pandas==2.2.3 --only-binary=:all:
 numpy==2.2.0 --only-binary=:all:
 matplotlib==3.10.1
 seaborn==0.13.2
-gunicorn==21.2.0
